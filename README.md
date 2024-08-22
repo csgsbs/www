@@ -1,4 +1,4 @@
-# CSGSBS Website
+# CSGS(BS) Website
 
 Please acquire/do the following before using this website.
 
